@@ -1,0 +1,2 @@
+models/word2vec_sample/pruned.word2vec.txt filter=lfs diff=lfs merge=lfs -text
+corpora/lin_thesaurus/simN.lsp filter=lfs diff=lfs merge=lfs -text
